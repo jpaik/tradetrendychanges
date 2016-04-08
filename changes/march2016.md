@@ -1,5 +1,5 @@
 # March 2016 Changes
-## Started to log progress on March 17. Previous changes were not logged :disappointed:
+### Started to log progress on March 17. Previous changes were not logged :disappointed:
 
 ### 3/31/2016
   Add description to trading interface  
