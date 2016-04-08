@@ -5,6 +5,9 @@ Change Log to Trade Trendy (Private Repo), because I need to be more organized
 - [Todo List](#todo-list)
 - [Ideas](#ideas-for-the-future)
 - [Changes](#change-log)
+  - [2016](#2016)
+    - [April](#april-2016)
+    - [March](#march-2016)
 
 ## Todo List
 - [ ] Fix mobile grid/map to float right correctly
@@ -32,17 +35,17 @@ Change Log to Trade Trendy (Private Repo), because I need to be more organized
   * Make it so that the changing/cancelling is better. Probably using popup instead of alert
 
 ## Change Log
-Newest First
-### April 2016
-#### Quick Summary:
+### 2016
+#### April 2016
+##### Quick Summary:
 * Add Multiple Trading feature
 * Admins can view conversations if reported
 * Add username to FB Registration
 * Change name to username in views for users
 * For full change log, [CLICK HERE](changes/april2016.md)
 
-### March 2016
-#### Quick Summary:
+#### March 2016
+##### Quick Summary:
 * Remove Free Trial for business purposes
 * Add Homepage and New Listing Javascripts
 * Change layout of listings and star
