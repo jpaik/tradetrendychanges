@@ -7,10 +7,10 @@ Change Log to Trade Trendy (Private Repo), because I need to be more organized
 - [Changes](#change-log)
 
 ## Todo List
-[ ] Fix mobile grid/map to float right correctly
-[ ] Finalize FAQ page and questions
-[ ] Minify all scripts and css before launch
-[ ] Fix height of Star/grid item for Firefox
+- [ ] Fix mobile grid/map to float right correctly
+- [ ] Finalize FAQ page and questions
+- [ ] Minify all scripts and css before launch
+- [ ] Fix height of Star/grid item for Firefox
 
 ## Ideas for the future
 * Checkbox onclick refreshes the grid: Need to figure out AJAX for that
@@ -36,4 +36,4 @@ Quick Summary:
 * Admins can view conversations if reported
 * Add username to FB Registration
 * Change name to username in views for users
-For full change log, [click here](april2016.md)
+For full change log, [click here](changes/april2016.md)
