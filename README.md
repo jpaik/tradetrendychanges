@@ -1,11 +1,16 @@
 # Trade Trendy Change Log
 Change Log to Trade Trendy (Private Repo), because I need to be more organized
 
+### Menu
+- [Todo List](#todo-list)
+- [Ideas](#ideas-for-the-future)
+- [Changes](#change-log)
+
 ## Todo List
-- [] Fix mobile grid/map to float right correctly
-- [] Finalize FAQ page and questions
-- [] Minify all scripts and css before launch
-- [] Fix height of Star/grid item for Firefox
+[ ] Fix mobile grid/map to float right correctly
+[ ] Finalize FAQ page and questions
+[ ] Minify all scripts and css before launch
+[ ] Fix height of Star/grid item for Firefox
 
 ## Ideas for the future
 * Checkbox onclick refreshes the grid: Need to figure out AJAX for that
@@ -13,7 +18,7 @@ Change Log to Trade Trendy (Private Repo), because I need to be more organized
   * Inbox Row change trade request to trade finished?
 * Dropdown Menu for shipping tracking postal company
   * If company, then link to their tracking.
-  * EX:  %a{:href => "\https://tools.usps.com/go/TrackConfirmAction.action?tLabels=#{usps_code_other.to_s.delete(' ')}", :target => "\_blank"}
+  * EX:  %a{:href => "https://tools.usps.com/go/TrackConfirmAction.action?tLabels=#{usps_code_other.to_s.delete(' ')}", :target => "\_blank"}
 * Search by people's names + Brand
 * Make username can't have a curse word
 * Notification for Followed person's new listing
@@ -25,3 +30,10 @@ Change Log to Trade Trendy (Private Repo), because I need to be more organized
 
 ## Change Log
 Newest First
+### April
+Quick Summary:
+* Add Multiple Trading feature
+* Admins can view conversations if reported
+* Add username to FB Registration
+* Change name to username in views for users
+For full change log, [click here](april2016.md)
