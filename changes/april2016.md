@@ -1,4 +1,8 @@
 # April 2016 Changes
+### 4/7/2016
+Updated FAQ to reflect multiple trading
+Update FAQ meta tags
+
 ### 4/7/2016  
 Add Multiple Trades options  
 Make MySQL models (trade_other_listing_id | trade_starter_listing_id) with String that holds the ID's Integer added with a comma(NO SPACE) for every additional listing.  

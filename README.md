@@ -15,6 +15,7 @@ Change Log to Trade Trendy (Private Repo), because I need to be more organized
 - [ ] Minify all scripts and css before launch
 - [ ] Fix height of Star/grid item for Firefox
 - [ ] Add Admin controls for trade view
+- [ ] Add notifications for Stripe to users
 - [ ] Get feedback from initial users
 
 ## Ideas for the future
