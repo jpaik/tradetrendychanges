@@ -14,6 +14,8 @@ Change Log to Trade Trendy (Private Repo), because I need to be more organized
 - [ ] Finalize FAQ page and questions
 - [ ] Minify all scripts and css before launch
 - [ ] Fix height of Star/grid item for Firefox
+- [ ] Add Admin controls for trade view
+- [ ] Get feedback from initial users
 
 ## Ideas for the future
 * Checkbox onclick refreshes the grid: Need to figure out AJAX for that
