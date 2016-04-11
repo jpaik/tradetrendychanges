@@ -1,4 +1,9 @@
 # April 2016 Changes
+
+###4/10/2016
+Brainstorming for landing page changes  
+Need to optimize homepage
+
 ### 4/7/2016
 Updated FAQ to reflect multiple trading
 Update FAQ meta tags
