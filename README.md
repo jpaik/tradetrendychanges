@@ -45,6 +45,7 @@ Change Log to Trade Trendy (Private Repo), because I need to be more organized
 * Admins can view conversations if reported
 * Add username to FB Registration
 * Change name to username in views for users
+* Add Free Trial to change our plan
 * For full change log, [CLICK HERE](changes/april2016.md)
 
 #### March 2016

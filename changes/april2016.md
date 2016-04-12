@@ -1,5 +1,9 @@
 # April 2016 Changes
 
+### 4/12/2016
+Add Free Trial for 60 Days.
+Add Notifications when payment fails or user cancels subscription.
+
 ###4/10/2016
 Brainstorming for landing page changes  
 Need to optimize homepage
